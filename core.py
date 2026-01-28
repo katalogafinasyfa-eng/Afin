@@ -44,7 +44,7 @@ def get_bot_reply(user_input: str) -> str:
     greetings = ["halo", "hai", "p", "siang", "pagi", "sore", "malam", "assalamualaikum"]
     if clean_input in greetings:
         return (
-            "Halo 👋 Selamat datang di Vivian Collection!\n\n"
+            "Halo 👋 Selamat datang di Rayhan Water!\n\n"
             "Ada yang bisa kami bantu? Silakan tanya tentang:\n"
             "• Jam buka toko\n"
             "• Alamat toko\n"
