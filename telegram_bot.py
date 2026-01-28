@@ -1,4 +1,4 @@
-# main.py / telegram_bot.py
+# telegram_bot.py
 import os
 import json
 import re
@@ -101,7 +101,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 def main():
     app = ApplicationBuilder() \
         .token(TOKEN) \
-        .build()  # <-- jangan pakai .timezone()
+        .build()  # <-- .timezone() sudah dihapus
 
     # Command /start
     app.add_handler(CommandHandler("start", start))
