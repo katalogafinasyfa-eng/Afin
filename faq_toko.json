@@ -1,0 +1,45 @@
+{
+  "faq": [
+    {
+      "tag": "cara_order",
+      "keywords": [
+        "cara order",
+        "cara pesan",
+        "beli lewat mana"
+      ],
+      "answer": "Anda dapat melakukan pemesanan melalui WhatsApp, Shopee, Tokopedia, atau datang langsung ke toko. Untuk informasi lebih lanjut, silakan hubungi admin di nomor 083161356733."
+    },
+    {
+      "tag": "jam_operasional",
+      "keywords": [
+        "jam buka",
+        "jam operasional"
+      ],
+      "answer": "Toko kami buka setiap hari pukul 08.00 – 21.00 WIB."
+    },
+    {
+      "tag": "alamat",
+      "keywords": [
+        "alamat",
+        "lokasi toko"
+      ],
+      "answer": "Toko kami beralamat di Jl. Sukadana Blok Krajan 2, Desa Danawarih, Kecamatan Balapulang, Kabupaten Tegal."
+    },
+    {
+      "tag": "menu_sembako",
+      "keywords": [
+        "sembako",
+        "menu sembako",
+        "bahan pokok",
+        "kebutuhan pokok"
+      ],
+      "answer": "Kami menyediakan berbagai kebutuhan sembako seperti beras, gula, minyak goreng, telur, mie instan, dan kebutuhan pokok lainnya."
+    }
+  ],
+  "bad_words": [
+    "anjing",
+    "bangsat",
+    "kontol",
+    "memek"
+  ]
+}
